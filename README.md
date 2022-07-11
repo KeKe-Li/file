@@ -1,1 +1,1 @@
-# file
+# file for server read config 
